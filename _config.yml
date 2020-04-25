@@ -1,4 +1,4 @@
-title: Long Haul
+title: Hello World
 description: Long Form Jekyll theme built with SASS / COMPASS / SUSY
 
 url: "https://do-park.github.io/"
@@ -20,9 +20,7 @@ navigation:
     url: /contact
 
 social:
-  github: brianmaierjr
-  twitter: brianmaierjr
-  facebook: brianmaierjr
-  email: brimaidesigns@gmail.com
+  github: do-park
+  email: dohee.pa@gmail.com
 
 google_analytics: "UA-58263416-1"
